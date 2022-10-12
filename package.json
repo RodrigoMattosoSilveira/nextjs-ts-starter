@@ -28,9 +28,26 @@
   "dependencies": {
     "next": "12.3.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "@emotion/cache": "^11.10.3",
+    "@emotion/react": "^11.10.4",
+    "@emotion/server": "^11.10.0",
+    "@emotion/styled": "^11.10.4",
+    "@mui/lab": "^5.0.0-alpha.103",
+    "@mui/material": "^5.10.9",
+    "@popperjs/core": "^2.11.6",
+    "apexcharts": "^3.18.0",
+    "apexcharts-clevision": "3.28.5",
+    "clsx": "^1.2.1",
+    "mdi-material-ui": "^7.5.0",
+    "nprogress": "^0.2.0",
+    "react-apexcharts": "^1.4.0",
+    "react-datepicker": "^4.8.0",
+    "react-perfect-scrollbar": "^1.5.8",
+    "react-popper": "^2.3.0"
   },
   "devDependencies": {
+    "@babel/core": "^7.0.0",
     "@commitlint/cli": "17.1.2",
     "@commitlint/config-conventional": "17.1.0",
     "@types/node": "16.11.64",
